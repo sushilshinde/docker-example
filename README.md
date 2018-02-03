@@ -171,3 +171,9 @@ You can find out more about Docker instructions [`here`](https://docs.docker.com
 
 [travis-badge]: https://travis-ci.org/indrabasak/docker-example.svg?branch=master
 [travis-badge-url]: https://travis-ci.org/indrabasak/docker-example/
+
+
+
+#### References 
+https://github.com/spotify/docker-maven-plugin
+https://askubuntu.com/questions/477551/how-can-i-use-docker-without-sudo
